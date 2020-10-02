@@ -1,13 +1,18 @@
 /* Footer
 -------------------------------------------------- */
 .footer {
-    max-width: calc(var(--main-width) + var(--gap) * 2);
-    margin: auto;
+    /* max-width: calc(var(--main-width) + var(--gap) * 2); */
+    margin: auto auto 0 auto;
     padding: calc((var(--footer-height) - (var(--gap)) - 10px) / 2) var(--gap);
-    color: var(--secondary);
+    padding-bottom: 24px;
+    color: var(--code-bg);
     font-size: 12px;
     text-align: center;
     line-height: 24px;
+    background-color: var(--primary);
+    font-weight: 800;
+    font-family: Roboto Condensed;
+    text-transform: uppercase;
 }
 
 .footer span {
@@ -21,8 +26,8 @@
 }
 
 .footer a:hover {
-    color: var(--primary);
-    border-bottom: 1px solid var(--primary);
+    color: var(--theme);
+    border-bottom: 1px solid var(--theme);
 }
 
 .top-link {

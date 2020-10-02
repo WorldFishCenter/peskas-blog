@@ -4,6 +4,15 @@
     margin: 24px auto var(--content-gap) auto
 }
 
+.post-title::after {
+    content: " ";
+    background: #58ab47;
+    width: 200px;
+    height: 3px;
+    display: block;
+    margin: 15px 0 15px ;
+} 
+
 .post-title {
     margin-bottom: 2px;
     font-size: 40px;
