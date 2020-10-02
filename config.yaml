@@ -1,4 +1,4 @@
-baseURL: "http://blog.peskas.org/"
+baseURL: "https://happy-feynman-5ed237.netlify.app/"
 languageCode: "en-uk"
 title: "The Peskas Blog"
 theme:  "hugo-PaperMod"
