@@ -1,0 +1,31 @@
+baseURL: "http://blog.peskas.org/"
+languageCode: "en-uk"
+title: "The Peskas Blog"
+theme:  "hugo-PaperMod"
+
+params:
+    defaultTheme: "light"
+    ShowReadingTime: true
+    ShowShareButtons: false
+    titleShort: "Peskas"
+    socialIcons: # optional
+        - 
+            name: github
+            url: "http://a.com"
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+    
+# menu:
+#   main:
+    # - name: Archive
+    #   url: /archives/
+    #   weight: 5
+    # - name: Topics
+    #   url: /categories/
+    #   weight: 5
+    # - name: Series
+    #   url: /series/
+    #   weight: 15
