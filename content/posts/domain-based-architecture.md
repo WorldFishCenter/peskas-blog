@@ -2,7 +2,7 @@
 title: "Peskas: scalable, resilient, secure"
 date: 2020-10-05T18:09:41+13:00
 author: "Fernando Cagua"
-draft: true
+draft: false
 description: "In Peskas we are moving from a monolith towards a domain-based data-architecture. We want to enable the sustainable growth of the platform*."
 tags: [ "architecture", "tech" ] 
 ShowToc: false 
@@ -95,6 +95,8 @@ flowchart LR
 {{< rawhtml >}}<figcaption>Proposed Peskas architecture–domain-based. 
 Each domain is responsible for its pipeline and a product that can be consumed by other domains or users (e.g. a data analyst). 
 The technological details inside a domain are abstracted and simplified.</figcaption>{{< /rawhtml >}}
+
+This is how we see a domain based architecture can help us: 
 
 *Scalability*: Adding a new data source does not require changes to existing components. 
 A domain-based architecture is a self-serve infrastructure by default because each domain does not need to know who is using its product; it only needs to ensure the quality of the product. 
