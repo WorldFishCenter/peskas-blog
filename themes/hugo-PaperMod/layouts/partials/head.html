@@ -15,8 +15,13 @@
 {{- if .Site.Params.analytics.google.SiteVerificationTag }}
 <meta name="google-site-verification" content="{{ .Site.Params.analytics.google.SiteVerificationTag }}" />
 {{- end}}
+<!-- Mermaid -->
+{{ if (.Params.mermaid) }}
+<script src="https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({'securityLevel': 'loose', 'theme': 'neutral', startOnLoad:true});</script>
+{{ end }}
 <!-- Styles -->
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Roboto:ital,wght@0,300;0,400;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;700&family=Roboto:ital,wght@0,300;0,400;1,400&display=swap" rel="stylesheet">
 {{- $anoldhope := resources.Get "css/an-old-hope.min.css" | minify }}
 {{- $theme := resources.Get "css/theme-vars.css" | minify }}
 {{- $reset := resources.Get "css/reset.css" | minify }}
@@ -28,7 +33,8 @@
 {{- $archive := resources.Get "css/archive.css" | minify }}
 {{- $footer := resources.Get "css/footer.css" | minify }}
 {{- $404 := resources.Get "css/404.css" | minify }}
-{{- $style := slice $theme $reset $header $main $postentry $postsingle $terms $archive $footer $404 | resources.Concat "stylesheet.css" | minify }}
+{{- $mermaid := resources.Get "css/mermaid.css" | minify }}
+{{- $style := slice $theme $reset $header $main $postentry $postsingle $terms $archive $footer $404 $mermaid | resources.Concat "stylesheet.css" | minify }}
 {{- $stylesheet := slice $anoldhope $style | resources.Concat "css/stylesheet.css" | minify | fingerprint }}
 <link href="{{ $stylesheet.Permalink }}" integrity="{{ $stylesheet.Data.Integrity }}" rel="preload stylesheet"
     as="style">
