@@ -1,5 +1,5 @@
 ---
-title: "New Peskas paper now out in PLoS One"
+title: "New Peskas paper out now in PLoS One"
 date: 2021-01-06T18:09:41+13:00
 author: "Alex Tilley"
 draft: false
@@ -26,9 +26,9 @@ WorldFish has been working with the Government of East Timor since 2010. Initial
 
 ## PeskAAS is a data pipeline
 
-An R script pulls data together from the catch form and vessel trackers, combines them, organizes and analyses those data, then summarises them on a public webpage. We established a network of enumerators to record catch from fishers when they land using a simple XForm. Through a partnership with [Pelagic Data Systems](www.pelagicdata.com), we installed a few hundred of their solar-powered vessel trackers on canoes and motorboats. They provide very high-resolution positions compared to traditional VMS. 
+An R script pulls data together from the catch form and vessel trackers, combines them, organizes and analyses those data, then summarises them on a public webpage. We established a network of enumerators to record catch from fishers when they land using a simple XForm. Through a partnership with [Pelagic Data Systems](https://www.pelagicdata.com), we installed a few hundred of their solar-powered vessel trackers on canoes and motorboats. They provide very high-resolution positions compared to traditional VMS. 
 Pelagic tracking is not free, but an optional extra that integrates with PeskAAS to provide spatial data for effort and CPUE. 
-Peskas displays the summary data and plots of CPUE on a **webpage dashboard** built using R Shiny. You can visit this page and take a look [here](https://worldfish.shinyapps.io/peskAAS/), it is public. 
+Peskas displays the summary data and plots of CPUE on a **webpage dashboard** built using R Shiny. You can visit this page and take a look [here](https://worldfish.shinyapps.io/peskAAS), it is public. 
 
 ## Outcomes
 
