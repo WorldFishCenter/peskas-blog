@@ -2,7 +2,7 @@
 title: "New Peskas paper now out in PLoS One"
 date: 2021-01-06T18:09:41+13:00
 author: "Alex Tilley"
-draft: true
+draft: false
 description: "A new paper out in PLoS One detailing the design and piloting of the PeskAAS fisheries monitoring system"
 tags: ["publications", "timor"] 
 ShowToc: false 
