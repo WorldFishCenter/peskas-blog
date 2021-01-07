@@ -14,7 +14,7 @@ A new paper is now out in PLoS One which details the design and piloting of Pesk
 
 <h2>Unreported doesn't mean illegal</h2>
 
-Global coverage of ocean issues typically links IUU with overfishing without emphasizing that much of this not necessarily Illegal, but also Unreported. This is true for many small-scale fisheries around the world. Recent global research suggests that where data are routinely collected and used for fisheries management, fisheries are sustainable or increasing [(Hilborn et al., 2020)](https://www.pnas.org/content/117/4/2218).
+Global coverage of ocean issues typically links IUU with overfishing without emphasizing that much of this not necessarily Illegal, but may merely be Unreported. This is true for many small-scale fisheries around the world as they are often remote and informal and very hard to track. However, recent global research suggests that where data are routinely collected and used for fisheries management, fisheries are sustainable or increasing [(Hilborn et al., 2020)](https://www.pnas.org/content/117/4/2218). Furthermore, small-scale fisheries stakeholders are generally excluded from decision making around their resources and livelihoods due to this same lack of quantifiable evidence.
 
 The adage **"If you can't count it, it doesn't count"** is particularly fitting in East Timor, a half-island nation north of Australia. 
 Timor has one of the highest rates of malnutrition in the world, yet despite the importance of fish for micronutrients, there has traditionally been very little investment in the fisheries sector. Around 80% of coastal households rely on marine resources to some degree. 
