@@ -8,6 +8,7 @@ tags: [ "architecture", "tech", "fisheries", "ICT4SSF", "ICT4Fisheries" ]
 ShowToc: false 
 TocOpen: false 
 mermaid: false
+cover: /img/hauling_dugouts.jpg
 ---
 
 A new paper is now out in PLoS One which details the design and piloting of Peskas in East Timor. [Read and download it here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234760).
@@ -34,3 +35,5 @@ Peskas displays the summary data and plots of CPUE on a **webpage dashboard** bu
 The interface and analytics are still simple in PeskAAS East Timor because this is an ongoing building and capacity development process. In other locations and contexts, we are working on automating biomass surplus production models to use and test in the adaptive management of community fisheries. We introduced PeskAAS in 2017, and the Timorese government adopted it quickly. It has brought new insights into fishing patterns, enabled more engagement with fishers and guided new fisheries policy. However, there is still much work to improve its contribution to inclusive governance.
 
 The process of co-design with end-users and continuous feedback and consultations with local partners is crucial to the sustainability of information and communication technologies for small-scale fisheries [(FAO & WorldFish 2020)](http://www.fao.org/documents/card/en/c/cb2030en). We believe the rapid uptake and early policy successes are thanks to the strong local partnerships and trust with our local partners. 
+
+*Photo credit: (c)WorldFish/J.Dos Reis Lopes*
