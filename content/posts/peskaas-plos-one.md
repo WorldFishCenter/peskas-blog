@@ -4,16 +4,16 @@ date: 2021-01-06T18:09:41+13:00
 author: "Alex Tilley"
 draft: true
 description: "A new paper out in PLoS One detailing the design and piloting of the PeskAAS fisheries monitoring system"
-tags: [ "architecture", "tech", "fisheries", "ICT4SSF", "ICT4Fisheries" ] 
+tags: ["publications", "timor"] 
 ShowToc: false 
 TocOpen: false 
 mermaid: false
 cover: /img/hauling_dugouts.jpg
 ---
 
-A new paper is now out in PLoS One which details the design and piloting of Peskas in East Timor. [Read and download it here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234760).
+A new paper is now out in PLoS One which details the design and piloting of Peskas in East Timor. [Read and download it at the journal's website](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234760).
 
-## Unreported doesn't mean illegal
+## Unreported doesn't mean illegal.
 
 Global coverage of ocean issues typically links IUU with overfishing without emphasizing that much of this not necessarily Illegal, but may merely be Unreported. This is true for many small-scale fisheries worldwide as they are often remote and informal and tough to track. However, recent global research suggests that where data are routinely collected and used for fisheries management, fisheries are sustainable or increasing [(Hilborn et al., 2020)](https://www.pnas.org/content/117/4/2218). Furthermore, small-scale fisheries stakeholders are generally excluded from decision making around their resources and livelihoods due to this same lack of quantifiable evidence.
 
