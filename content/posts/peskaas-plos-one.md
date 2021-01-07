@@ -4,7 +4,7 @@ date: 2021-01-06T18:09:41+13:00
 author: "Alex Tilley"
 draft: true
 description: "A new paper out in PLoS One detailing the design and piloting of the PeskAAS fisheries monitoring system"
-tags: [ "architecture", "tech" ] 
+tags: [ "architecture", "tech", "fisheries", "ICT4SSF", "ICT4Fisheries" ] 
 ShowToc: false 
 TocOpen: false 
 mermaid: false
