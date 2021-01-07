@@ -1,9 +1,9 @@
 ---
-title: "Post template"
+title: "If you can't count it, it doesn't count"
 date: 2021-01-06T18:09:41+13:00
 author: "Alex Tilley"
 draft: true
-description: "One sentence summarising the post"
+description: "A new paper out in PLoS One detailing the design and piloting of the PeskAAS fisheries monitoring system"
 tags: [ "architecture", "tech" ] 
 ShowToc: false 
 TocOpen: false 
