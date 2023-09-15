@@ -9,9 +9,8 @@ tags: [ "East Africa", "Blue Economy", "Data-Driven Management" ]
 ShowToc: false
 TocOpen: false
 mermaid: false
+cover: /img/KMFRI.jpg
 ---
-
-![](images/fish_market.jpg){width="602"}
 
 Last week I stood in front of 250 fishers, fisheries officers, managers, and NGOs at a beach hotel in Mombasa, Kenya. I was there to introduce a new project that aims to harmonise fisheries data in East Africa and transform it into knowledge for sustainable fisheries and improved livelihoods.
 
@@ -25,7 +24,6 @@ Unfortunately, this treatment is not unusual. Small-scale fishers are often excl
 
 Small-scale fishers around the world face similar threats to their livelihoods, but have little evidence of their activities or their value. However, collecting this data gives them information and knowledge on which to base business decisions, or access credit for example.
 
-![](images/KMFRI.jpg)
 
 This meeting in Mombasa was the start of the Digital Coasts work package of the [Asia-Africa Blue Tech Superhighway project](https://worldfishcenter.org/project/asia-africa-bluetech-superhighway) funded by the UK government's Blue Planet Fund. Over the next four years, this project aims to enable data-driven management of small-scale fisheries in East Africa. To do this, WorldFish will work with local and international partners, from ministries to fishing communities, to identify existing data streams and to create new ones to feed an information system on which sound and sustainable management decisions can be based. It's exciting and humbling to consider that large coastal states like Kenya, Tanzania and Mozambique might be using approaches developed in the small nation of Timor-Leste.
 
@@ -33,6 +31,5 @@ In Zanzibar, the government agency responsible for fisheries is the Ministry of 
 
 Similarly, in Kenya the work will focus on enhancing data collection methods at the level of Beach Management Units. These are not part of the government, but are legally recognised bodies in the Fisheries act that govern the coastal fisheries of an area. They are responsible for collecting and submitting fisheries data and developing a management plan.
 
-![](images/trader_zanzibar.jpg){width="338"}
 
 As my plane was leaving Zanzibar bound for our headquarters in Malaysia, I couldn't help but feel excited to start. East Africa has the technological and social conditions to allow for much faster uptake of digital fisheries than Timor-Leste. Combined with so many collaborating institutions eager to contribute time and data, it makes me optimistic for a small-scale fisheries digital revolution in the region.
