@@ -1,5 +1,5 @@
 ---
-title: "From little things, big things grow: Scaling Peskas in East Africa""
+title: "From little things, big things grow: Scaling Peskas in East Africa"
 author: "Alex Tilley"
 date: 2023-09-16T02:53:20+13:00
 draft: no
