@@ -9,10 +9,8 @@ tags: [ "East Africa", "Blue Economy", "Data-Driven Management" ]
 ShowToc: false
 TocOpen: false
 mermaid: false
-cover: /img/KMFRI.jpg
+cover: /img/fish_market.jpg
 ---
-
-{{< figure src="/img/fish_market.jpg" >}}
 
 Last week I stood in front of 250 fishers, fisheries officers, managers, and NGOs at a beach hotel in Mombasa, Kenya. I was there to introduce a new project that aims to harmonise fisheries data in East Africa and transform it into knowledge for sustainable fisheries and improved livelihoods.
 
@@ -34,6 +32,19 @@ In Zanzibar, the government agency responsible for fisheries is the Ministry of 
 
 Similarly, in Kenya the work will focus on enhancing data collection methods at the level of Beach Management Units. These are not part of the government, but are legally recognised bodies in the Fisheries act that govern the coastal fisheries of an area. They are responsible for collecting and submitting fisheries data and developing a management plan.
 
-{{< figure src="/img/trader_zanzibar.jpg" >}}
 
-As my plane was leaving Zanzibar bound for our headquarters in Malaysia, I couldn't help but feel excited to start. East Africa has the technological and social conditions to allow for much faster uptake of digital fisheries than Timor-Leste. Combined with so many collaborating institutions eager to contribute time and data, it makes me optimistic for a small-scale fisheries digital revolution in the region.
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-left: 20px;">
+    <p>
+      As my plane was leaving Zanzibar bound for our headquarters in Malaysia, I couldn't help but
+      feel excited to start. East Africa has the technological and social conditions to allow for
+      much faster uptake of digital fisheries than Timor-Leste. Combined with so many collaborating
+      institutions eager to contribute time and data, it makes me optimistic for a small-scale
+      fisheries digital revolution in the region.
+    </p>
+  </div>
+
+  <div>
+    {{< figure src="/img/trader_zanzibar.jpg" >}}
+  </div>
+</div>
