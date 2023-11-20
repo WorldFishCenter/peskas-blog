@@ -1,7 +1,7 @@
 ---
-title: "World ~~Fisheries~~ Fishers Day"
+title: "World <s>Fisheries</s> Fishers Day"
 author: "Alex Tilley"
-date: "2022-11-20T18:09:41+13:00"
+date: "2023-11-20T18:09:41+13:00"
 draft: no
 description: Let’s celebrate the people behind the numbers
 tags: [ "Sustainable Fisheries", "Global Food Security", "Inclusive Blue Economy", "Fisheries Data Technology" ]
