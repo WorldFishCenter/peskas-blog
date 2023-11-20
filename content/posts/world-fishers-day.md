@@ -1,5 +1,5 @@
 ---
-title: "World \"~~Fisheries~~\" Fishers Day"
+title: "WORLD &#126;&#126;FISHERIES&#126;&#126; FISHERS DAY"
 author: "Alex Tilley"
 date: "2023-11-20T18:09:41+13:00"
 draft: no
