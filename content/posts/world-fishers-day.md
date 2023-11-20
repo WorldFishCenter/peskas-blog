@@ -8,6 +8,7 @@ tags: [ "Sustainable Fisheries", "Global Food Security", "Inclusive Blue Economy
 ShowToc: no
 TocOpen: no
 mermaid: no
+cover: /img/zanzibar_fishers.jpg
 ---
 
 *Let's celebrate the people behind the numbers*.
