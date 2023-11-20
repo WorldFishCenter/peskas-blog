@@ -35,4 +35,5 @@ This #WorldFisheriesDay also falls on the first day of a workshop in Mombasa, Ke
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF0uNrwsUE&#x2F;view?utm_content=DAF0uNrwsUE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Copy of Digging deeper in Zanzibar to co-design solutions for an inclusive sustainable blue economy</a> by Alex Tilley
 
+
 This photo story gives a glimpse of the types of issues and solutions - real-time insights from the people behind the numbers. This is what we should celebrate today - ensuring research about fishers is truly inclusive, country led and useful to those whose lives depend on it.
