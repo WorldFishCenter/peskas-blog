@@ -32,7 +32,7 @@ This #WorldFisheriesDay also falls on the first day of a workshop in Mombasa, Ke
       src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF0uNrwsUE&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
    </iframe>
 </div> 
-<small>*Photo credit: Alina Paul-Bossuet and Alex Tilley*</small>
-
+<small>*Photo credit: Alina Paul-Bossuet and Alex Tilley</small>
+<br><br>
 
 This photo story gives a glimpse of the types of issues and solutions - real-time insights from the people behind the numbers. This is what we should celebrate today - ensuring research about fishers is truly inclusive, country led and useful to those whose lives depend on it.
