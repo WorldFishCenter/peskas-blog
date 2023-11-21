@@ -1,6 +1,6 @@
 ---
 title: "World Fisheries Day: Celebrating the people behind the numbers"
-author: "Alex Tilley and Alina Paul-Bossuet"
+author: "Alex Tilley"
 date: "2023-11-20T18:09:41+13:00"
 draft: no
 description: Let’s celebrate the people behind the numbers
@@ -10,8 +10,6 @@ TocOpen: no
 mermaid: no
 cover: /img/zanzibar_fishers.jpg
 ---
-
-*Let's celebrate the people behind the numbers*.
 
 I have always been decidedly nonchalant about 'international days of...'. I find it trite, and overused, and too often for things that are not causes for celebration.
 
