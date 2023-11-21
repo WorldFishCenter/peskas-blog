@@ -1,5 +1,5 @@
 ---
-title: "From Fisheries to Fishers: A World Day's Transformation"
+title: World ~~Fisheries~~ Fishers Day
 author: "Alex Tilley"
 date: "2023-11-20T18:09:41+13:00"
 draft: no
