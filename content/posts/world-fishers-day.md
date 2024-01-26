@@ -8,7 +8,7 @@ tags: [ "Sustainable Fisheries", "Global Food Security", "Inclusive Blue Economy
 ShowToc: no
 TocOpen: no
 mermaid: no
-cover: /img/zanzibar_fishers.jpg
+cover: /img/zanzibar_fishers_horizon.jpg
 ---
 
 I have always been decidedly nonchalant about 'international days of...'. I find it trite, and overused, and too often for things that are not causes for celebration.
@@ -32,7 +32,7 @@ This #WorldFisheriesDay also falls on the first day of a workshop in Mombasa, Ke
       src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF0uNrwsUE&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
    </iframe>
 </div> 
-<small>*Photo and text credit: Alina Paul-Bossuet and Alex Tilley</small>
+<small><em>Photo credit: Alina Paul-Bossuet and Alex Tilley</em></small>
 <br><br>
 
 This photo story gives a glimpse of the types of issues and solutions - real-time insights from the people behind the numbers. This is what we should celebrate today - ensuring research about fishers is truly inclusive, country led and useful to those whose lives depend on it.
