@@ -11,6 +11,7 @@ tags:
 ShowToc: false
 TocOpen: false
 mermaid: false
+cover: /img/shorthands_cover.jpg
 ---
 
 This photo story gives some insight into the small-scale fisheries of coastal Kenya and highlights some key issues that the AABS project is hoping to tackle.    
