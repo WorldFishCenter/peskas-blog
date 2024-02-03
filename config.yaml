@@ -1,6 +1,6 @@
 baseURL: "https://blog.peskas.org"
 languageCode: "en-uk"
-title: "The Peskas Blog"
+title: "The Peskas™ Blog"
 theme:  "hugo-PaperMod"
 
 markup:
@@ -12,7 +12,7 @@ params:
     defaultTheme: "light"
     ShowReadingTime: true
     ShowShareButtons: false
-    titleShort: "Peskas"
+    titleShort: "Peskas™"
     socialIcons: # optional
         - 
             name: github
